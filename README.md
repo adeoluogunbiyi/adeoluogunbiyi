@@ -56,7 +56,7 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/adeoluogunbiyi/Multi-VM-Cybersecurity-Lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-ad-aws-cloud security | Enumerating and escalating privileges in AD | [View Repo](https://github.com/adeoluogunbiyi/AWS-Deployment) |
 | 04-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
