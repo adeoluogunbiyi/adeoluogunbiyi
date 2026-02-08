@@ -60,7 +60,7 @@
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/adeoluogunbiyi/Installing-and-hardening-Active-Directory) |
 | 03-ad-aws-cloud security | Enumerating and escalating privileges in AD | [View Repo](https://github.com/adeoluogunbiyi/AWS-Deployment) |
 | 04-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/adeoluogunbiyi/Crafting-AUP-password-and-ACL-policies) |
 | 06-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
