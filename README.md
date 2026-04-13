@@ -65,7 +65,7 @@
 | 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/adeoluogunbiyi/CIA-impact-mapping-and-risk-matrix) |
 | 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/adeoluogunbiyi/Lab-based-phishing-campaign-and-metrics) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
