@@ -67,7 +67,7 @@
 | 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/adeoluogunbiyi/ATT-CK-Aligned-Threat-Hunting) |
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/adeoluogunbiyi/Lab-based-phishing-campaign-and-metrics) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/adeoluogunbiyi/Email-header-and-domain-analysis-toolkit/tree/main) |
-| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/adeoluogunbiyi/Identifying-world-writable-and-SUID-files) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
