@@ -61,7 +61,7 @@
 | 03-ad-aws-cloud security | Enumerating and escalating privileges in AD | [View Repo](https://github.com/adeoluogunbiyi/AWS-Deployment) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/adeoluogunbiyi/Crafting-AUP-password-and-ACL-policies) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/adeoluogunbiyi/Network-and-web-app-scanning-with-Nessus-and-Nmap) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/adeoluogunbiyi/Security-Onion-and-Splunk-dashboards/blob/main/Splunk_SIEM_Network_Monitoring_Report.pdf) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/adeoluogunbiyi/CIA-impact-mapping-and-risk-matrix) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/adeoluogunbiyi/ATT-CK-Aligned-Threat-Hunting) |
 | 9-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/adeoluogunbiyi/Lab-based-phishing-campaign-and-metrics) |
