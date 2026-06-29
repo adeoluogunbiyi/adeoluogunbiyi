@@ -68,7 +68,7 @@
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/adeoluogunbiyi/Email-header-and-domain-analysis-toolkit/tree/main) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/adeoluogunbiyi/Identifying-world-writable-and-SUID-files) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/adeoluogunbiyi/SQLi-exploitation-and-DDoS-alert-tuning) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/adeoluogunbiyi/Static-and-dynamic-malware-triage/blob/main/Malware_Analysis_Report.pdf) |
 |
 
 ---
